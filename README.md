@@ -1,50 +1,66 @@
-# Hi, I am Mehul Nikumbh
+# Hi 👋, I'm Mehul Nikumbh
 
-MS Information Systems (Cybersecurity) student at California State University, Long Beach, focused on cybersecurity analytics, risk and compliance, and security operations.
+### 🛡️ Cybersecurity Analyst in Training | MS Information Systems (Cybersecurity) @ CSULB
 
-## About Me
-- Location: Long Beach, California
-- Education: MS in Information Systems (Cybersecurity), California State University, Long Beach (GPA 3.44)
-- Undergraduate: BE in Electronics (Honors: Cybersecurity), University of Mumbai (GPA 3.8)
-- Interests: Risk management, control validation, SIEM, machine learning for security, audit readiness
+I build practical cybersecurity analytics projects focused on detection, risk management, and audit readiness.
 
-## Tech and Domain Skills
-- Security and Data: Cybersecurity, SIEM, Python, SQL, Machine Learning, AI
-- Risk and Compliance: Risk Management, Compliance, Change Management, Process Management, Control Validation
-- Professional: Cross-functional collaboration, technical documentation, stakeholder communication
+---
 
-## Experience Snapshot
-### Student Assistant, Information Security - CSULB (Sep 2024 - Present)
-- Documented incidents and control findings across 50+ systems to support faster audit evidence collection.
-- Helped enforce lab access and security policies across 200+ endpoints, reducing policy violations.
-- Coordinated change and patch documentation with IT and faculty for remediation tracking.
+### 💡 What I'm Working On
 
-### Cybersecurity Intern - The Cheesecake Factory (Jun 2025 - Aug 2025)
-- Validated CrowdStrike Falcon and SIEM detections across 400+ assets and helped reduce false positives.
-- Supported third-party risk reviews and flagged data leakage risks tied to application usage.
-- Collaborated with SOC and IT on phishing simulation and user-reported email workflows.
+- **Cybersecurity analytics pipelines** using Python + ML to detect anomalous traffic and risky behavior.
+- **Risk and compliance documentation workflows** that improve audit evidence quality and control traceability.
+- **Security operations use cases** that combine SIEM context with data-driven analysis.
 
-### Security Operations Intern - Telenetworks Technologies (Dec 2023 - Feb 2024)
-- Validated security controls across 80+ infrastructure components and documented remediation gaps.
-- Supported incident investigations by correlating host and network logs.
-- Performed structured access and configuration reviews for risk reporting.
+### 🧰 Tech & Domain Toolbox
 
-## Featured Projects
-- [IS665 Cybersecurity Analytics Project](https://github.com/mehulnikumbh19/IS665-cybersecurity-analytics)
-  - End-to-end ML-based DDoS detection workflow using CICIDS-style data, with training, evaluation, API, and dashboard components.
-- [MultiPDF Chat App](https://github.com/mehulnikumbh19/multipdf-chat-app)
-  - AI-powered PDF question-answering application for multi-document workflows.
-- [AWS EC2 Security Hardening Project](https://github.com/mehulnikumbh19/project-1-securing-aws-ec2)
-  - Practical cloud security hardening and operational checklist for Amazon Linux 2023 on AWS EC2.
-- [ML Notes](https://github.com/mehulnikumbh19/ML_Notes)
-  - Personal machine learning notes and reference implementations.
+| Area | Skills |
+| --- | --- |
+| Languages & Data | Python · SQL · Pandas · NumPy |
+| ML & Analytics | scikit-learn · Random Forest · Feature Engineering |
+| Security | SIEM · Security Operations · Control Validation · Incident Documentation |
+| GRC | Risk Management · Compliance · Change Management · Process Management |
+| Visualization & Apps | Streamlit · Plotly · Flask |
+| Professional | Cross-Functional Collaboration · Technical Documentation |
 
-## Current Focus
-- Applying machine learning to practical cybersecurity detection and response.
-- Building risk and compliance workflows that produce audit-ready evidence.
-- Expanding portfolio projects at the intersection of security operations and analytics.
+### ⚙️ What I Practice
 
-## Connect
+- End-to-end security ML workflows (data prep -> model training -> evaluation -> dashboard/API)
+- Risk-focused analysis and reporting for governance and compliance objectives
+- Structured control reviews and remediation tracking for audit readiness
+- Network traffic inspection and feature extraction from packet/flow data
+
+### 💼 Experience Highlights
+
+- **Student Assistant, Information Security (CSULB)**
+  - Documented incidents and control findings across 50+ systems for faster audit evidence collection.
+  - Supported security policy and access control enforcement across 200+ endpoints.
+- **Cybersecurity Intern (The Cheesecake Factory)**
+  - Validated CrowdStrike Falcon + SIEM detections across 400+ assets and helped reduce false positives.
+  - Supported third-party risk review and identified data-leakage risks tied to application usage.
+- **Security Operations Intern (Telenetworks Technologies)**
+  - Validated controls across 80+ infrastructure components and documented remediation gaps.
+  - Correlated host/network logs to support incident investigations.
+
+### 🚀 Featured Projects
+
+- **[IS665 Cybersecurity Analytics Project](https://github.com/mehulnikumbh19/IS665-cybersecurity-analytics)**
+  - End-to-end ML-based DDoS analytics workflow with training, evaluation, API, and dashboard.
+- **[MultiPDF Chat App](https://github.com/mehulnikumbh19/multipdf-chat-app)**
+  - AI-powered multi-document Q&A assistant.
+- **[AWS EC2 Security Hardening Project](https://github.com/mehulnikumbh19/project-1-securing-aws-ec2)**
+  - Step-by-step security hardening checklist for Amazon Linux 2023 on EC2.
+- **[ML Notes](https://github.com/mehulnikumbh19/ML_Notes)**
+  - Personal ML learning notes and implementation references.
+
+### 🎯 Current Focus
+
+- Building projects at the intersection of **cybersecurity + machine learning + risk management**.
+- Translating technical findings into clear, audit-ready documentation.
+- Growing practical experience in detection engineering and security analytics.
+
+### 🌐 Connect
+
+- LinkedIn: [linkedin.com/in/mehulnikumbh19](https://www.linkedin.com/in/mehulnikumbh19)
+- GitHub: [github.com/mehulnikumbh19](https://github.com/mehulnikumbh19)
 - Email: mnikumbh19@gmail.com
-- GitHub: https://github.com/mehulnikumbh19
-- LinkedIn: https://www.linkedin.com/in/mehulnikumbh19
