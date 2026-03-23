@@ -1,4 +1,4 @@
-﻿# Hi, I am Mehul Nikumbh
+# Hi, I am Mehul Nikumbh
 
 MS Information Systems (Cybersecurity) student at California State University, Long Beach, focused on cybersecurity analytics, risk and compliance, and security operations.
 
