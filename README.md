@@ -4,7 +4,7 @@
 
 ### 🛡️ Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
 
-**M.S. Information Systems — Cybersecurity Concentration @ California State University, Long Beach**
+**M.S. Information Systems - Cybersecurity Concentration @ California State University, Long Beach**
 
 I build practical cybersecurity and GRC workflows that turn **technical security evidence** into **risk-based decisions**. My work focuses on **control assessments, audit evidence tracking, vulnerability risk prioritization, IAM governance, remediation reporting, and security compliance documentation**.
 
@@ -27,17 +27,17 @@ My background includes **security operations, endpoint and SIEM alert review, vu
 
 ---
 
-## 🧭 What I’m Building Toward
+## 🧭 What I Am Building Toward
 
 ```text
 Governance + Risk + Compliance
-        │
-        ├── Control Testing & Evidence Review
-        ├── Security Risk Assessments
-        ├── IAM / Access Review Validation
-        ├── Vulnerability Risk Prioritization
-        ├── Audit Readiness & Remediation Tracking
-        └── Stakeholder-Ready Risk Reporting
+        |
+        |-- Control Testing & Evidence Review
+        |-- Security Risk Assessments
+        |-- IAM / Access Review Validation
+        |-- Vulnerability Risk Prioritization
+        |-- Audit Readiness & Remediation Tracking
+        |-- Stakeholder-Ready Risk Reporting
 ```
 
 ---
@@ -104,7 +104,7 @@ Governance + Risk + Compliance
 
 ## 💼 Experience Highlights
 
-### 🏢 Cybersecurity Intern — The Cheesecake Factory
+### 🏢 Cybersecurity Intern - The Cheesecake Factory
 
 - Supported security operations and audit-readiness workflows through endpoint and SIEM alert review.
 - Validated CrowdStrike Falcon detections and documented findings for remediation tracking and evidence collection.
@@ -112,7 +112,7 @@ Governance + Risk + Compliance
 - Reviewed firewall and SIEM configurations to identify visibility gaps, policy concerns, and control improvement opportunities.
 - Documented technical findings in a structured format to support remediation and security stakeholder review.
 
-### 🏢 Security Operations Intern — TeleNetworks Technologies
+### 🏢 Security Operations Intern - TeleNetworks Technologies
 
 - Reviewed endpoint and network security logs to identify anomalies, control deviations, and investigation evidence.
 - Assessed infrastructure configurations against hardening expectations and documented remediation gaps.
@@ -127,7 +127,8 @@ Governance + Risk + Compliance
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 AccessGuard  
+### 🔐 AccessGuard
+
 **User Access Review & Provisioning Control Testing Workflow**
 
 A simulated access governance project focused on access review testing, joiner/mover/leaver validation, privileged access review, and audit evidence tracking.
@@ -142,7 +143,8 @@ A simulated access governance project focused on access review testing, joiner/m
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Bastion  
+### 🛡️ Bastion
+
 **Compliance Control Mapping & Audit Evidence Tracker**
 
 A control mapping and audit-readiness project designed to connect framework requirements with technical evidence, control owners, and remediation status.
@@ -159,7 +161,8 @@ A control mapping and audit-readiness project designed to connect framework requ
 <tr>
 <td width="50%" valign="top">
 
-### ⚠️ Patchwork  
+### ⚠️ Patchwork
+
 **Vulnerability Risk Register & Remediation Prioritization Dashboard**
 
 A vulnerability governance project focused on risk-based remediation, asset context, SLA tracking, and compliance-style reporting.
@@ -174,7 +177,8 @@ A vulnerability governance project focused on risk-based remediation, asset cont
 </td>
 <td width="50%" valign="top">
 
-### 📊 Watchtower  
+### 📊 Watchtower
+
 **SIEM Alert Evidence Review & Risk-Based Triage Workflow**
 
 A security evidence and triage project focused on SIEM alert review, risk prioritization, and incident-ready documentation.
