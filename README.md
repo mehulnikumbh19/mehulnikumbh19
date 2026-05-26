@@ -1,69 +1,127 @@
 # Hi 👋, I'm Mehul Nikumbh
 
-### 🛡️ Cybersecurity Analyst in Training | MS Information Systems (Cybersecurity) @ CSULB
+### 🛡️ Cybersecurity GRC & IT Risk Analyst | MS Information Systems (Cybersecurity) @ CSULB
 
-I build practical cybersecurity analytics projects focused on detection, risk management, and audit readiness.
+I focus on the intersection of **cybersecurity, governance, risk, and compliance (GRC)** with hands-on experience in **security operations, control assessments, vulnerability risk analysis, audit readiness, and remediation tracking**.
+
+My work combines technical cybersecurity foundations with risk-based governance practices aligned to frameworks such as **NIST CSF, ISO 27001, SOC 2, SOX ITGC, PCI DSS, and CIS Controls**.
 
 ---
 
-### 💡 What I'm Working On
+## 💡 Current Focus
 
-- **Cybersecurity analytics pipelines** using Python + ML to detect anomalous traffic and risky behavior.
-- **Risk and compliance documentation workflows** that improve audit evidence quality and control traceability.
-- **Security operations use cases** that combine SIEM context with data-driven analysis.
+- Building practical workflows for:
+  - **Risk assessments**
+  - **Control validation**
+  - **Audit evidence tracking**
+  - **Security compliance reporting**
+  - **Vulnerability risk prioritization**
+  - **IAM and access governance reviews**
 
-### 🛠️ Tech & Domain Toolbox
+- Translating technical security findings into:
+  - Risk narratives
+  - Compliance documentation
+  - Remediation plans
+  - Stakeholder-ready reporting
+
+- Expanding practical knowledge in:
+  - IT Risk Management
+  - Security Compliance
+  - Audit Readiness
+  - Governance Workflows
+  - Third-Party Risk
+  - Security Analytics
+
+---
+
+## 🛠️ Governance, Security & Analytics Toolbox
 
 | Area | Skills |
 | --- | --- |
-| Languages & Data | Python · SQL · Pandas · NumPy |
-| ML & Analytics | scikit-learn · Random Forest · Isolation Forest · Feature Engineering |
-| Security | SIEM · Security Operations · Control Validation · Incident Documentation |
-| GRC | Risk Management · Compliance · Change Management · Process Management |
-| Visualization & Apps | Streamlit · Plotly · Flask |
-| Professional | Cross-Functional Collaboration · Technical Documentation |
+| Governance & Compliance | GRC · IT Risk · Security Compliance · Audit Readiness · Control Testing · Remediation Tracking |
+| Frameworks | NIST CSF · NIST 800-53 · ISO 27001 · SOC 2 · PCI DSS · CIS Controls · OWASP Top 10 |
+| IAM & Risk | Access Reviews · Provisioning/De-provisioning · Least Privilege · Vulnerability Risk Management |
+| Security Operations | SIEM · Incident Documentation · Log Analysis · Security Monitoring |
+| Tools | Splunk · Microsoft Sentinel · CrowdStrike Falcon · Wazuh · OpenVAS · Nmap |
+| Data & Reporting | Excel · SQL · Python · Pandas · Risk Dashboards · KPI/KRI Reporting |
+| Professional | Stakeholder Communication · Documentation · Cross-Functional Collaboration |
 
-### ⚙️ What I Practice
+---
 
-- End-to-end security ML workflows (data prep -> model training -> evaluation -> dashboard/API)
-- Risk-focused analysis and reporting for governance and compliance objectives
-- Structured control reviews and remediation tracking for audit readiness
-- Network traffic inspection and feature extraction from packet/flow data
+## ⚙️ What I Practice
 
-### 💼 Experience Highlights
+- Security control reviews and evidence validation
+- Risk assessments and compliance gap analysis
+- Audit-ready documentation and remediation tracking
+- Vulnerability prioritization using CVSS and asset context
+- SIEM alert analysis and incident evidence reporting
+- IAM governance concepts including access review validation
+- Structured reporting for governance and compliance workflows
 
-- **Student Assistant, Information Security (CSULB)**
-  - Documented incidents and control findings across 50+ systems for faster audit evidence collection.
-  - Supported security policy and access control enforcement across 200+ endpoints.
-- **Cybersecurity Intern (The Cheesecake Factory)**
-  - Validated CrowdStrike Falcon + SIEM detections across 400+ assets and helped reduce false positives.
-  - Supported third-party risk review and identified data-leakage risks tied to application usage.
-- **Security Operations Intern (Telenetworks Technologies)**
-  - Validated controls across 80+ infrastructure components and documented remediation gaps.
-  - Correlated host/network logs to support incident investigations.
+---
 
-### 🚀 Featured Projects
+## 💼 Experience Highlights
 
-- **[SENTINEL Security Analytics](https://github.com/mehulnikumbh19/sentinel)**
-  - Behavioral anomaly detection for enterprise telemetry with IsolationForest and weighted risk prioritization.
-- **[IS665 Cybersecurity Analytics Project](https://github.com/mehulnikumbh19/IS665-cybersecurity-analytics)**
-  - End-to-end ML-based DDoS analytics workflow with training, evaluation, API, and dashboard.
-- **[MultiPDF Chat App](https://github.com/mehulnikumbh19/multipdf-chat-app)**
-  - AI-powered multi-document Q&A assistant.
-- **[AWS EC2 Security Hardening Project](https://github.com/mehulnikumbh19/project-1-securing-aws-ec2)**
-  - Step-by-step security hardening checklist for Amazon Linux 2023 on EC2.
-- **[ML Notes](https://github.com/mehulnikumbh19/ML_Notes)**
-  - Personal ML learning notes and implementation references.
+### 🏢 Cybersecurity Intern — The Cheesecake Factory
 
-### 🎯 Current Focus
+- Supported security operations and audit-readiness workflows through endpoint and SIEM alert review.
+- Validated CrowdStrike Falcon detections and documented findings for remediation tracking and evidence collection.
+- Assisted with third-party application risk review to identify potential data leakage concerns.
+- Reviewed firewall and SIEM configurations to identify security and visibility gaps.
 
-- Building projects at the intersection of **cybersecurity + machine learning + risk management**.
-- Translating technical findings into clear, audit-ready documentation.
-- Growing practical experience in detection engineering and security analytics.
+### 🏢 Security Operations Intern — TeleNetworks Technologies
 
-### 🌐 Connect
+- Reviewed security logs and validated controls across endpoint and network infrastructure.
+- Assessed configuration baselines and documented remediation gaps aligned to security best practices.
+- Correlated host and network evidence to support incident investigations and reporting workflows.
+- Maintained structured remediation tracking for identified findings.
 
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Bastion — Compliance Control Mapping & Audit Readiness Workflow
+
+- Mapped 120+ NIST 800-53 and CIS Controls to policy artifacts, technical evidence, and remediation workflows.
+- Identified evidence gaps across multiple control families and built structured remediation trackers.
+- Created dashboards for compliance status, audit readiness, and residual risk visibility.
+
+### 👤 AccessGuard — User Access Review & IAM Governance Workflow
+
+- Built a simulated access-review workflow covering provisioning, de-provisioning, privileged access, and segregation-of-duties checks.
+- Created audit evidence trackers, exception logs, remediation status dashboards, and risk-rating workflows.
+- Mapped findings to access-control objectives aligned with NIST and ISO 27001 principles.
+
+### ⚠️ Patchwork — Vulnerability Risk & Remediation Dashboard
+
+- Correlated CVE records against asset inventories to prioritize remediation using CVSS severity, exploitability, and business impact.
+- Built risk-ranked remediation queues and compliance-style reporting dashboards.
+- Tracked remediation ownership, SLA status, and high-risk exposure trends.
+
+### 🧩 Codewall — Application Security & Dependency Risk Review
+
+- Performed static analysis and dependency reviews across Python repositories using Bandit and Safety.
+- Mapped findings to OWASP Top 10 and CWE categories.
+- Generated structured remediation guidance and SBOM-style outputs for governance visibility.
+
+---
+
+## 🎯 Career Interests
+
+I am actively interested in roles related to:
+
+- Governance, Risk & Compliance (GRC)
+- IT Risk Management
+- Security Compliance
+- Audit Readiness
+- Security Control Assessments
+- Vulnerability Risk Management
+- IAM Governance
+- Cybersecurity Governance Operations
+
+---
+
+## 🌐 Connect With Me
 - LinkedIn: [linkedin.com/in/mehulnikumbh19](https://www.linkedin.com/in/mehulnikumbh19)
 - GitHub: [github.com/mehulnikumbh19](https://github.com/mehulnikumbh19)
 - Email: mnikumbh19@gmail.com
-
