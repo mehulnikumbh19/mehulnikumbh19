@@ -2,53 +2,54 @@
 
 ### 🛡️ Cybersecurity GRC & IT Risk Analyst | MS Information Systems (Cybersecurity) @ CSULB
 
-I focus on the intersection of **cybersecurity, governance, risk, and compliance (GRC)** with hands-on experience in **security operations, control assessments, vulnerability risk analysis, audit readiness, and remediation tracking**.
+I focus on the intersection of **cybersecurity, governance, risk, and compliance (GRC)** with hands-on experience in **security operations, control assessments, vulnerability risk analysis, audit readiness, remediation tracking, and security compliance workflows**.
 
-My work combines technical cybersecurity foundations with risk-based governance practices aligned to frameworks such as **NIST CSF, ISO 27001, SOC 2, SOX ITGC, PCI DSS, and CIS Controls**.
+My background combines technical cybersecurity fundamentals with governance and compliance practices aligned to frameworks such as **NIST CSF, NIST 800-53, ISO 27001, SOC 2, SOX ITGC, PCI DSS, and CIS Controls**.
 
 ---
 
-## 💡 Current Focus
+# 💡 Current Focus
 
 - Building practical workflows for:
-  - **Risk assessments**
-  - **Control validation**
-  - **Audit evidence tracking**
-  - **Security compliance reporting**
-  - **Vulnerability risk prioritization**
-  - **IAM and access governance reviews**
+  - Security risk assessments
+  - Control testing & validation
+  - Audit evidence collection
+  - Compliance gap analysis
+  - Vulnerability risk prioritization
+  - IAM governance & access reviews
+  - Remediation tracking & reporting
 
-- Translating technical security findings into:
+- Translating technical findings into:
   - Risk narratives
-  - Compliance documentation
-  - Remediation plans
-  - Stakeholder-ready reporting
+  - Audit-ready documentation
+  - Compliance reporting
+  - Stakeholder-facing remediation summaries
 
 - Expanding practical knowledge in:
   - IT Risk Management
+  - Security Governance
   - Security Compliance
-  - Audit Readiness
-  - Governance Workflows
   - Third-Party Risk
-  - Security Analytics
+  - Audit Readiness
+  - Security Control Assessments
 
 ---
 
-## 🛠️ Governance, Security & Analytics Toolbox
+# 🛠️ Governance, Security & Analytics Toolbox
 
 | Area | Skills |
 | --- | --- |
 | Governance & Compliance | GRC · IT Risk · Security Compliance · Audit Readiness · Control Testing · Remediation Tracking |
 | Frameworks | NIST CSF · NIST 800-53 · ISO 27001 · SOC 2 · PCI DSS · CIS Controls · OWASP Top 10 |
-| IAM & Risk | Access Reviews · Provisioning/De-provisioning · Least Privilege · Vulnerability Risk Management |
+| IAM & Risk | Access Reviews · Provisioning/De-provisioning · Least Privilege · Segregation of Duties |
 | Security Operations | SIEM · Incident Documentation · Log Analysis · Security Monitoring |
 | Tools | Splunk · Microsoft Sentinel · CrowdStrike Falcon · Wazuh · OpenVAS · Nmap |
-| Data & Reporting | Excel · SQL · Python · Pandas · Risk Dashboards · KPI/KRI Reporting |
-| Professional | Stakeholder Communication · Documentation · Cross-Functional Collaboration |
+| Data & Reporting | Excel · SQL · Python · Pandas · KPI/KRI Reporting · Risk Dashboards |
+| Professional | Stakeholder Communication · Technical Documentation · Cross-Functional Collaboration |
 
 ---
 
-## ⚙️ What I Practice
+# ⚙️ What I Practice
 
 - Security control reviews and evidence validation
 - Risk assessments and compliance gap analysis
@@ -57,19 +58,20 @@ My work combines technical cybersecurity foundations with risk-based governance 
 - SIEM alert analysis and incident evidence reporting
 - IAM governance concepts including access review validation
 - Structured reporting for governance and compliance workflows
+- Security findings communication for technical and non-technical stakeholders
 
 ---
 
-## 💼 Experience Highlights
+# 💼 Experience Highlights
 
-### 🏢 Cybersecurity Intern — The Cheesecake Factory
+## 🏢 Cybersecurity Intern — The Cheesecake Factory
 
 - Supported security operations and audit-readiness workflows through endpoint and SIEM alert review.
 - Validated CrowdStrike Falcon detections and documented findings for remediation tracking and evidence collection.
 - Assisted with third-party application risk review to identify potential data leakage concerns.
 - Reviewed firewall and SIEM configurations to identify security and visibility gaps.
 
-### 🏢 Security Operations Intern — TeleNetworks Technologies
+## 🏢 Security Operations Intern — TeleNetworks Technologies
 
 - Reviewed security logs and validated controls across endpoint and network infrastructure.
 - Assessed configuration baselines and documented remediation gaps aligned to security best practices.
@@ -78,37 +80,47 @@ My work combines technical cybersecurity foundations with risk-based governance 
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔐 Bastion — Compliance Control Mapping & Audit Readiness Workflow
+## 🔐 AccessGuard — User Access Review & Provisioning Control Testing Workflow
 
-- Mapped 120+ NIST 800-53 and CIS Controls to policy artifacts, technical evidence, and remediation workflows.
-- Identified evidence gaps across multiple control families and built structured remediation trackers.
-- Created dashboards for compliance status, audit readiness, and residual risk visibility.
-
-### 👤 AccessGuard — User Access Review & IAM Governance Workflow
-
-- Built a simulated access-review workflow covering provisioning, de-provisioning, privileged access, and segregation-of-duties checks.
-- Created audit evidence trackers, exception logs, remediation status dashboards, and risk-rating workflows.
-- Mapped findings to access-control objectives aligned with NIST and ISO 27001 principles.
-
-### ⚠️ Patchwork — Vulnerability Risk & Remediation Dashboard
-
-- Correlated CVE records against asset inventories to prioritize remediation using CVSS severity, exploitability, and business impact.
-- Built risk-ranked remediation queues and compliance-style reporting dashboards.
-- Tracked remediation ownership, SLA status, and high-risk exposure trends.
-
-### 🧩 Codewall — Application Security & Dependency Risk Review
-
-- Performed static analysis and dependency reviews across Python repositories using Bandit and Safety.
-- Mapped findings to OWASP Top 10 and CWE categories.
-- Generated structured remediation guidance and SBOM-style outputs for governance visibility.
+- Built a SOX ITGC, ISO 27001, and NIST-aligned access governance workflow using simulated HR, Active Directory, privileged account, and ticketing datasets.
+- Validated user access completeness, terminated-user access, privileged access exceptions, provisioning/de-provisioning evidence, and segregation-of-duties conflicts.
+- Created Excel-based evidence trackers, remediation dashboards, exception logs, and control-owner status reporting workflows.
+- Mapped findings to least privilege, access governance, privileged access management, and periodic access review objectives.
 
 ---
 
-## 🎯 Career Interests
+## 🛡️ Bastion — Compliance Control Mapping & Audit Evidence Tracker
 
-I am actively interested in roles related to:
+- Mapped 120+ NIST 800-53 and CIS Controls to policy artifacts, technical evidence, and control-owner responsibilities.
+- Identified evidence gaps across multiple control families and built structured remediation tracking workflows.
+- Created Excel/Python dashboards for evidence completeness, residual risk visibility, and audit readiness reporting.
+- Prioritized remediation using risk impact, control criticality, and evidence quality.
+
+---
+
+## ⚠️ Patchwork — Vulnerability Risk Register & Remediation Prioritization Dashboard
+
+- Correlated 2,000+ CVE records against a 150-asset inventory to build a centralized vulnerability risk register.
+- Created risk-ranked remediation queues using CVSS severity, exploitability, business impact, and asset criticality.
+- Built reporting dashboards for overdue remediation, exception tracking, and leadership-level risk visibility.
+- Mapped findings to NIST/CIS-aligned vulnerability management expectations.
+
+---
+
+## 📊 Watchtower — SIEM Alert Evidence Review & Risk-Based Triage Workflow
+
+- Processed 500+ simulated SIEM alerts and enriched indicators with external threat-intelligence context.
+- Built a risk-based triage workflow using asset criticality, IOC confidence, alert severity, and business impact.
+- Produced incident-ready documentation including evidence summaries, escalation status, and remediation notes.
+- Mapped findings to MITRE ATT&CK techniques to improve incident traceability and governance visibility.
+
+---
+
+# 🎯 Career Interests
+
+I am actively interested in opportunities related to:
 
 - Governance, Risk & Compliance (GRC)
 - IT Risk Management
@@ -121,7 +133,8 @@ I am actively interested in roles related to:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
+
 - LinkedIn: [linkedin.com/in/mehulnikumbh19](https://www.linkedin.com/in/mehulnikumbh19)
 - GitHub: [github.com/mehulnikumbh19](https://github.com/mehulnikumbh19)
 - Email: mnikumbh19@gmail.com
