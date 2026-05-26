@@ -2,41 +2,47 @@
 
 # Mehul Nikumbh
 
-### Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
+### 🛡️ Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
 
-M.S. Information Systems — Cybersecurity Concentration @ California State University, Long Beach
+**M.S. Information Systems — Cybersecurity Concentration @ California State University, Long Beach**
 
-I build practical cybersecurity and GRC workflows that connect **technical security evidence** with **risk-based decision making**. My work focuses on control assessments, audit evidence tracking, vulnerability risk prioritization, IAM governance, remediation reporting, and security compliance documentation.
+I build practical cybersecurity and GRC workflows that turn **technical security evidence** into **risk-based decisions**. My work focuses on **control assessments, audit evidence tracking, vulnerability risk prioritization, IAM governance, remediation reporting, and security compliance documentation**.
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-GRC%20%26%20IT%20Risk%20Roles-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Audit%20Readiness%20%7C%20Risk%20Assessment-15803D?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## Professional Focus
+## 🎯 Profile Snapshot
 
-I am focused on cybersecurity roles at the intersection of **Governance, Risk, and Compliance**, where security controls, business risk, audit expectations, and technical evidence come together.
+I work at the intersection of **cybersecurity, governance, risk, and compliance**, where security controls, audit expectations, business risk, and technical evidence come together.
 
-My background includes security operations, endpoint and SIEM alert review, vulnerability analysis, configuration reviews, access-control concepts, third-party application risk, and audit-ready documentation. I use that technical foundation to support GRC work such as **control testing, evidence validation, compliance gap analysis, risk registers, remediation tracking, and stakeholder reporting**.
+My background includes **security operations, endpoint and SIEM alert review, vulnerability analysis, configuration reviews, access-control concepts, third-party application risk, and audit-ready documentation**. I use that technical foundation to support GRC work such as **control testing, evidence validation, compliance gap analysis, risk registers, remediation tracking, and stakeholder reporting**.
 
-My current goal is to grow in roles such as:
-
-**GRC Analyst · IT Risk Analyst · Compliance Analyst · IT Auditor · Information Security Analyst**
+> **Positioning:** GRC / IT Risk candidate with hands-on cybersecurity fundamentals and practical control-evidence experience.
 
 ---
 
-## Core Capabilities
+## 🧭 What I’m Building Toward
 
-- Security risk assessments and compliance gap analysis  
-- Control testing, control mapping, and evidence validation  
-- Audit-readiness documentation and remediation tracking  
-- Vulnerability risk prioritization using CVSS, exploitability, and asset context  
-- IAM governance concepts including access reviews, least privilege, and provisioning/de-provisioning  
-- SIEM alert review, incident documentation, and security evidence reporting  
-- Stakeholder-ready reporting using Excel, Python, SQL, and dashboards  
+```text
+Governance + Risk + Compliance
+        │
+        ├── Control Testing & Evidence Review
+        ├── Security Risk Assessments
+        ├── IAM / Access Review Validation
+        ├── Vulnerability Risk Prioritization
+        ├── Audit Readiness & Remediation Tracking
+        └── Stakeholder-Ready Risk Reporting
+```
 
 ---
 
-## Skills & Tools
+## 🧰 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/GRC-Governance%20Risk%20%26%20Compliance-2563EB?style=flat-square" />
@@ -83,22 +89,22 @@ My current goal is to grow in roles such as:
 
 ---
 
-## Practical Work Areas
+## 🧩 Practical Work Areas
 
 | Area | What I Work On |
 | --- | --- |
-| Governance & Compliance | Control mapping, audit readiness, evidence tracking, compliance documentation |
-| IT Risk | Risk assessments, likelihood/impact ratings, residual risk, remediation prioritization |
-| IAM Governance | Access reviews, provisioning/de-provisioning checks, least privilege, privileged access review |
-| Vulnerability Risk | CVE analysis, CVSS review, asset criticality, remediation SLA tracking |
-| Security Operations | SIEM alert review, endpoint evidence, incident documentation, escalation summaries |
-| Reporting | Excel dashboards, evidence trackers, remediation reports, stakeholder summaries |
+| 🏛️ Governance & Compliance | Control mapping, audit readiness, evidence tracking, compliance documentation |
+| ⚠️ IT Risk | Risk assessments, likelihood/impact ratings, residual risk, remediation prioritization |
+| 👤 IAM Governance | Access reviews, provisioning/de-provisioning checks, least privilege, privileged access review |
+| 🛡️ Vulnerability Risk | CVE analysis, CVSS review, asset criticality, remediation SLA tracking |
+| 🔎 Security Operations | SIEM alert review, endpoint evidence, incident documentation, escalation summaries |
+| 📊 Reporting | Excel dashboards, evidence trackers, remediation reports, stakeholder summaries |
 
 ---
 
-## Experience Highlights
+## 💼 Experience Highlights
 
-### Cybersecurity Intern — The Cheesecake Factory
+### 🏢 Cybersecurity Intern — The Cheesecake Factory
 
 - Supported security operations and audit-readiness workflows through endpoint and SIEM alert review.
 - Validated CrowdStrike Falcon detections and documented findings for remediation tracking and evidence collection.
@@ -106,7 +112,7 @@ My current goal is to grow in roles such as:
 - Reviewed firewall and SIEM configurations to identify visibility gaps, policy concerns, and control improvement opportunities.
 - Documented technical findings in a structured format to support remediation and security stakeholder review.
 
-### Security Operations Intern — TeleNetworks Technologies
+### 🏢 Security Operations Intern — TeleNetworks Technologies
 
 - Reviewed endpoint and network security logs to identify anomalies, control deviations, and investigation evidence.
 - Assessed infrastructure configurations against hardening expectations and documented remediation gaps.
@@ -115,9 +121,14 @@ My current goal is to grow in roles such as:
 
 ---
 
-## Featured GRC & Security Projects
+## 🚀 Featured GRC & Security Projects
 
-### AccessGuard — User Access Review & Provisioning Control Testing Workflow
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 AccessGuard  
+**User Access Review & Provisioning Control Testing Workflow**
 
 A simulated access governance project focused on access review testing, joiner/mover/leaver validation, privileged access review, and audit evidence tracking.
 
@@ -126,11 +137,13 @@ A simulated access governance project focused on access review testing, joiner/m
 - Created Excel-based evidence trackers, remediation dashboards, exception logs, risk-rating matrices, and control-owner status reports.
 - Mapped findings to least privilege, access governance, privileged access management, and periodic access review objectives.
 
-**Focus Areas:** Access Reviews · IAM Governance · SOX ITGC · Audit Evidence · Provisioning · Least Privilege
+**Focus:** Access Reviews · IAM Governance · SOX ITGC · Audit Evidence
 
----
+</td>
+<td width="50%" valign="top">
 
-### Bastion — Compliance Control Mapping & Audit Evidence Tracker
+### 🛡️ Bastion  
+**Compliance Control Mapping & Audit Evidence Tracker**
 
 A control mapping and audit-readiness project designed to connect framework requirements with technical evidence, control owners, and remediation status.
 
@@ -139,11 +152,15 @@ A control mapping and audit-readiness project designed to connect framework requ
 - Created Excel/Python dashboards for evidence completeness, residual risk visibility, control effectiveness, and audit readiness.
 - Prioritized remediation using risk impact, control criticality, likelihood, and evidence quality.
 
-**Focus Areas:** Control Testing · NIST 800-53 · CIS Controls · Audit Readiness · Risk Assessment · Remediation Tracking
+**Focus:** Control Testing · NIST 800-53 · CIS Controls · Audit Readiness
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Patchwork — Vulnerability Risk Register & Remediation Prioritization Dashboard
+### ⚠️ Patchwork  
+**Vulnerability Risk Register & Remediation Prioritization Dashboard**
 
 A vulnerability governance project focused on risk-based remediation, asset context, SLA tracking, and compliance-style reporting.
 
@@ -152,11 +169,13 @@ A vulnerability governance project focused on risk-based remediation, asset cont
 - Built dashboards for overdue remediation, high-risk assets, exception tracking, and leadership-level risk visibility.
 - Mapped findings to NIST/CIS-aligned vulnerability management expectations and produced remediation guidance for audit support.
 
-**Focus Areas:** Vulnerability Management · Risk Register · CVSS · Remediation SLA · Asset Criticality · Compliance Reporting
+**Focus:** Vulnerability Management · Risk Register · CVSS · Remediation SLA
 
----
+</td>
+<td width="50%" valign="top">
 
-### Watchtower — SIEM Alert Evidence Review & Risk-Based Triage Workflow
+### 📊 Watchtower  
+**SIEM Alert Evidence Review & Risk-Based Triage Workflow**
 
 A security evidence and triage project focused on SIEM alert review, risk prioritization, and incident-ready documentation.
 
@@ -165,23 +184,27 @@ A security evidence and triage project focused on SIEM alert review, risk priori
 - Produced incident-ready documentation including evidence summaries, escalation status, recommended actions, and remediation notes.
 - Mapped findings to MITRE ATT&CK techniques to improve incident traceability and governance visibility.
 
-**Focus Areas:** SIEM · Incident Documentation · Evidence Review · Risk-Based Triage · MITRE ATT&CK · Security Monitoring
+**Focus:** SIEM · Incident Documentation · Evidence Review · Risk-Based Triage
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Learning Priorities
+## 📚 Current Learning Priorities
 
-- NIST CSF and NIST 800-53 control interpretation  
-- ISO 27001 control objectives and audit evidence expectations  
-- SOX ITGC concepts: access, change management, operations, and logical security  
-- PCI DSS security control requirements  
-- IAM governance and access certification workflows  
-- Excel-based GRC reporting, risk registers, and compliance dashboards  
-- ServiceNow, Jira, SailPoint, and OneTrust workflow fundamentals  
+- NIST CSF and NIST 800-53 control interpretation
+- ISO 27001 control objectives and audit evidence expectations
+- SOX ITGC concepts: access, change management, operations, and logical security
+- PCI DSS security control requirements
+- IAM governance and access certification workflows
+- Excel-based GRC reporting, risk registers, and compliance dashboards
+- ServiceNow, Jira, SailPoint, and OneTrust workflow fundamentals
 
 ---
 
-## Career Interests
+## 🎯 Career Interests
 
 I am actively interested in opportunities across:
 
@@ -196,8 +219,12 @@ I am actively interested in opportunities across:
 
 ---
 
-## Connect
+<div align="center">
 
-- LinkedIn: [linkedin.com/in/mehulnikumbh19](https://www.linkedin.com/in/mehulnikumbh19)
-- GitHub: [github.com/mehulnikumbh19](https://github.com/mehulnikumbh19)
-- Email: mnikumbh19@gmail.com
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehul%20Nikumbh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehulnikumbh19)
+[![GitHub](https://img.shields.io/badge/GitHub-mehulnikumbh19-181717?style=for-the-badge&logo=github)](https://github.com/mehulnikumbh19)
+[![Email](https://img.shields.io/badge/Email-mnikumbh19%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mnikumbh19@gmail.com)
+
+</div>
