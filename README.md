@@ -2,7 +2,7 @@
 
 # Mehul Nikumbh
 
-### 🛡️ Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
+### Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
 
 **M.S. Information Systems - Cybersecurity Concentration @ California State University, Long Beach**
 
@@ -111,6 +111,18 @@ Governance + Risk + Compliance
 - Assisted with third-party application usage review to identify potential data leakage and governance risks.
 - Reviewed firewall and SIEM configurations to identify visibility gaps, policy concerns, and control improvement opportunities.
 - Documented technical findings in a structured format to support remediation and security stakeholder review.
+
+### 🏫 Information Security Analyst - Vivekanand Education Society's Institute Of Technology
+
+**Full-time | May 2023 - Aug 2024 | Mumbai, Maharashtra, India**
+
+- Performed security risk assessments and control gap reviews across applications, systems, and business processes mapped to **NIST CSF, ISO 27001, CIS Controls, and internal security policies**.
+- Supported audit readiness by collecting, validating, and organizing control evidence including **screenshots, tickets, access reports, configuration exports, vulnerability reports, and policy documents**.
+- Assisted with user access review testing, including **user population validation, privileged access checks, provisioning/de-provisioning review, terminated-user access review, and exception documentation**.
+- Maintained risk registers with **risk descriptions, likelihood and impact ratings, control gaps, risk owners, remediation due dates, and status updates**.
+- Coordinated with application owners, IT teams, security stakeholders, and management to track **remediation plans, compensating controls, and closure evidence**.
+- Reviewed third-party and vendor security documentation including **questionnaires, SOC 2 reports, ISO 27001 certificates, security policies, and data protection controls** to identify vendor risk.
+- Prepared Excel-based dashboards and trackers for **open findings, control gaps, remediation status, risk ratings, and audit evidence completion**.
 
 ### 🏢 Security Operations Intern - TeleNetworks Technologies
 
