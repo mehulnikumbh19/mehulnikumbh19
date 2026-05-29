@@ -1,259 +1,191 @@
+<h1 align="center">
+  Hey there, I'm Mehul
+</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Cybersecurity+GRC+%26+IT+Risk+Analyst;Security+Compliance+%2B+Audit+Readiness;Control+Testing+%2B+Evidence+Review;IAM+Governance+%2B+Vulnerability+Risk;M.S.+Information+Systems+%40+CSULB" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-United%20States-2563EB?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-GRC%20%26%20IT%20Risk%20Roles-15803D?style=flat-square&logo=briefcase&logoColor=white" />
+  <a href="https://mehulnikumbh19.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C3AED?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:mnikumbh19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mnikumbh19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cybersecurity Concentration from **California State University, Long Beach**, and hands-on experience across **security operations**, **control assessments**, **audit evidence tracking**, **IAM governance**, **vulnerability risk prioritization**, and **security compliance documentation**. I like working on problems where technical security evidence becomes business-ready risk decisions — think access reviews, control mapping, third-party assessments, SIEM evidence, and remediation reporting.
+
+```yaml
+name: Mehul Nikumbh
+role: Cybersecurity GRC / IT Risk Analyst
+focus: [Control Testing, Audit Evidence, IAM Governance, Vulnerability Risk]
+currently_building: [MANDATE, Bastion, Cybersecurity GRC Portfolio]
+education: M.S. Information Systems - Cybersecurity @ CSULB
+open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
 
-# Mehul Nikumbh
+### 🏛️ Governance, Risk & Compliance
+![GRC](https://img.shields.io/badge/GRC-Governance%20Risk%20%26%20Compliance-2563EB?style=for-the-badge)
+![IT Risk](https://img.shields.io/badge/IT%20Risk-Risk%20Assessment-7C2D12?style=for-the-badge)
+![Security Compliance](https://img.shields.io/badge/Security%20Compliance-Audit%20Readiness-15803D?style=for-the-badge)
+![Control Testing](https://img.shields.io/badge/Control%20Testing-Remediation%20Tracking-C2410C?style=for-the-badge)
+![Risk Register](https://img.shields.io/badge/Risk%20Register-Residual%20Risk-9333EA?style=for-the-badge)
 
-### Cybersecurity GRC • IT Risk • Security Compliance • Audit Readiness
+### 📚 Frameworks
+![NIST CSF](https://img.shields.io/badge/NIST-CSF-1D4ED8?style=for-the-badge)
+![NIST 800-53](https://img.shields.io/badge/NIST-800--53-1E40AF?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-166534?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC-2-6D28D9?style=for-the-badge)
+![SOX ITGC](https://img.shields.io/badge/SOX-ITGC-92400E?style=for-the-badge)
+![PCI DSS](https://img.shields.io/badge/PCI-DSS-B45309?style=for-the-badge)
+![CIS Controls](https://img.shields.io/badge/CIS-Controls-0F766E?style=for-the-badge)
 
-**M.S. Information Systems - Cybersecurity Concentration @ California State University, Long Beach**
+### 🛡️ Security Tools
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Falcon-B91C1C?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-Security%20Monitoring-005571?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-15803D?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Security-1D4ED8?style=for-the-badge)
 
-I build practical cybersecurity and GRC workflows that turn **technical security evidence** into **risk-based decisions**. My work focuses on **control assessments, audit evidence tracking, vulnerability risk prioritization, IAM governance, remediation reporting, and security compliance documentation**.
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-GRC%20%26%20IT%20Risk%20Roles-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Audit%20Readiness%20%7C%20Risk%20Assessment-15803D?style=for-the-badge" />
-</p>
+### 📊 Data & Reporting
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Review-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Risk%20Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-1D4ED8?style=for-the-badge)
+![KPI/KRI](https://img.shields.io/badge/KPI%2FKRI-Stakeholder%20Reporting-7C3AED?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Profile Snapshot
+## 🚀 Featured Projects
 
-I work at the intersection of **cybersecurity, governance, risk, and compliance**, where security controls, audit expectations, business risk, and technical evidence come together.
+### 🧾 MANDATE — Third-Party Security & Data Handling Review Tracker
+> _A TPRM and GRC workflow for vendor inventories, questionnaire review, evidence gaps, risk scoring, follow-ups, and executive reporting._
 
-My background includes **security operations, endpoint and SIEM alert review, vulnerability analysis, configuration reviews, access-control concepts, third-party application risk, and audit-ready documentation**. I use that technical foundation to support GRC work such as **control testing, evidence validation, compliance gap analysis, risk registers, remediation tracking, and stakeholder reporting**.
+[![Live App](https://img.shields.io/badge/Live%20App-mandatemehul.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://mandatemehul.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-MANDATE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/MANDATE)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GRC](https://img.shields.io/badge/-Third--Party%20Risk-7C3AED?style=flat-square)
 
-> **Positioning:** GRC / IT Risk candidate with hands-on cybersecurity fundamentals and practical control-evidence experience.
-
----
-
-## 🧭 What I Am Building Toward
-
-```text
-Governance + Risk + Compliance
-        |
-        |-- Control Testing & Evidence Review
-        |-- Security Risk Assessments
-        |-- IAM / Access Review Validation
-        |-- Vulnerability Risk Prioritization
-        |-- Audit Readiness & Remediation Tracking
-        |-- Stakeholder-Ready Risk Reporting
-```
+`Vendor Risk` · `Evidence Review` · `Residual Risk` · `Exception Tracking` · `Executive Reports`
 
 ---
 
-## 🧰 Skills & Tools
+### 🛡️ Bastion — Security Control Assessment & Evidence Tracker
+> _A Streamlit control assessment tool that maps frameworks to evidence, findings, remediations, exceptions, and management-ready reports._
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GRC-Governance%20Risk%20%26%20Compliance-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/IT%20Risk-Risk%20Assessment-7C2D12?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security%20Compliance-Audit%20Readiness-15803D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Control%20Testing-Remediation%20Tracking-C2410C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Risk%20Register-Residual%20Risk-9333EA?style=flat-square" />
-</p>
+[![Live App](https://img.shields.io/badge/Live%20App-bastion.streamlit.app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://bastion.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-bastion--grc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/bastion-grc)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NIST-CSF-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/NIST-800--53-1E40AF?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISO-27001-166534?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOC-2-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOX-ITGC-92400E?style=flat-square" />
-  <img src="https://img.shields.io/badge/PCI-DSS-B45309?style=flat-square" />
-  <img src="https://img.shields.io/badge/CIS-Controls-0F766E?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IAM-Access%20Governance-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/User%20Access-Reviews-166534?style=flat-square" />
-  <img src="https://img.shields.io/badge/Provisioning-Deprovisioning-0369A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Least-Privilege-991B1B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Segregation%20of-Duties-C2410C?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=flat-square&logo=microsoft" />
-  <img src="https://img.shields.io/badge/CrowdStrike-Falcon-B91C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wazuh-Security%20Monitoring-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-15803D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-Network%20Security-1D4ED8?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Risk%20Reporting-217346?style=flat-square&logo=microsoftexcel" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Review-150458?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/KPI%2FKRI-Reporting-7C3AED?style=flat-square" />
-</p>
+`Control Mapping` · `NIST 800-53` · `CIS Controls` · `Evidence Gaps` · `Audit Readiness`
 
 ---
 
-## 🧩 Practical Work Areas
+### 🔐 AccessGuard — User Access Review & Provisioning Control Testing
+> _A simulated access governance project for joiner/mover/leaver testing, privileged access review, SoD checks, and audit evidence workpapers._
 
-| Area | What I Work On |
-| --- | --- |
-| 🏛️ Governance & Compliance | Control mapping, audit readiness, evidence tracking, compliance documentation |
-| ⚠️ IT Risk | Risk assessments, likelihood/impact ratings, residual risk, remediation prioritization |
-| 👤 IAM Governance | Access reviews, provisioning/de-provisioning checks, least privilege, privileged access review |
-| 🛡️ Vulnerability Risk | CVE analysis, CVSS review, asset criticality, remediation SLA tracking |
-| 🔎 Security Operations | SIEM alert review, endpoint evidence, incident documentation, escalation summaries |
-| 📊 Reporting | Excel dashboards, evidence trackers, remediation reports, stakeholder summaries |
+[![GitHub](https://img.shields.io/badge/GitHub-AccessGuard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/AccessGuard)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![IAM](https://img.shields.io/badge/-IAM%20Governance-4C1D95?style=flat-square)
+
+`Access Reviews` · `SOX ITGC` · `Least Privilege` · `Provisioning` · `Remediation Tracking`
+
+---
+
+### 🌐 Cybersecurity GRC Portfolio
+> _A live portfolio site presenting GRC projects, case studies, artifacts, skills, and risk-focused security workflows._
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-GitHub%20Pages-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://mehulnikumbh19.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/portfolio)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+`GRC Portfolio` · `Case Studies` · `Risk Reporting` · `Audit Artifacts`
 
 ---
 
 ## 💼 Experience Highlights
 
-### 🏢 Cybersecurity Intern - The Cheesecake Factory
+### Cybersecurity Intern — The Cheesecake Factory
+- Supported endpoint and SIEM alert review workflows for security operations and audit readiness.
+- Validated CrowdStrike Falcon detections and documented findings for remediation and evidence tracking.
+- Assisted with third-party application usage review to identify governance and data leakage risks.
 
-- Supported security operations and audit-readiness workflows through endpoint and SIEM alert review.
-- Validated CrowdStrike Falcon detections and documented findings for remediation tracking and evidence collection.
-- Assisted with third-party application usage review to identify potential data leakage and governance risks.
-- Reviewed firewall and SIEM configurations to identify visibility gaps, policy concerns, and control improvement opportunities.
-- Documented technical findings in a structured format to support remediation and security stakeholder review.
-
-### 🏫 Information Security Analyst - Vivekanand Education Society's Institute Of Technology
-
-**Full-time | May 2023 - Aug 2024 | Mumbai, Maharashtra, India**
-
-- Performed security risk assessments and control gap reviews across applications, systems, and business processes mapped to **NIST CSF, ISO 27001, CIS Controls, and internal security policies**.
-- Supported audit readiness by collecting, validating, and organizing control evidence including **screenshots, tickets, access reports, configuration exports, vulnerability reports, and policy documents**.
-- Assisted with user access review testing, including **user population validation, privileged access checks, provisioning/de-provisioning review, terminated-user access review, and exception documentation**.
-- Maintained risk registers with **risk descriptions, likelihood and impact ratings, control gaps, risk owners, remediation due dates, and status updates**.
-- Coordinated with application owners, IT teams, security stakeholders, and management to track **remediation plans, compensating controls, and closure evidence**.
-- Reviewed third-party and vendor security documentation including **questionnaires, SOC 2 reports, ISO 27001 certificates, security policies, and data protection controls** to identify vendor risk.
-- Prepared Excel-based dashboards and trackers for **open findings, control gaps, remediation status, risk ratings, and audit evidence completion**.
-
-### 🏢 Security Operations Intern - TeleNetworks Technologies
-
-- Reviewed endpoint and network security logs to identify anomalies, control deviations, and investigation evidence.
-- Assessed infrastructure configurations against hardening expectations and documented remediation gaps.
-- Correlated host and network evidence to support incident investigations, root-cause summaries, and severity-based reporting.
-- Maintained structured remediation tracking for security findings and open control gaps.
+### Information Security Analyst — Vivekanand Education Society's Institute Of Technology
+- Performed security risk assessments and control gap reviews mapped to NIST CSF, ISO 27001, CIS Controls, and internal policies.
+- Organized audit evidence including screenshots, tickets, access reports, vulnerability reports, configuration exports, and policy documents.
+- Maintained risk registers, remediation trackers, control-owner status dashboards, and access review testing workpapers.
 
 ---
 
-## 🚀 Featured GRC & Security Projects
+## 🎓 Education
 
-| Project | Live App | Source |
-| --- | --- | --- |
-| **MANDATE** | [Open live app](https://mandatemehul.vercel.app/) | [GitHub repository](https://github.com/mehulnikumbh19/MANDATE) |
-| **Bastion** | [Open live app](https://bastion.streamlit.app/) | [GitHub repository](https://github.com/mehulnikumbh19/bastion-grc) |
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 AccessGuard
-
-**User Access Review & Provisioning Control Testing Workflow**
-
-A simulated access governance project focused on access review testing, joiner/mover/leaver validation, privileged access review, and audit evidence tracking.
-
-- Built a SOX ITGC, ISO 27001, and NIST-aligned access governance workflow using simulated HR, Active Directory, privileged account, and ticketing datasets.
-- Validated user access completeness, terminated-user access, privileged access exceptions, provisioning/de-provisioning evidence, and segregation-of-duties conflicts.
-- Created Excel-based evidence trackers, remediation dashboards, exception logs, risk-rating matrices, and control-owner status reports.
-- Mapped findings to least privilege, access governance, privileged access management, and periodic access review objectives.
-
-**Focus:** Access Reviews · IAM Governance · SOX ITGC · Audit Evidence
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Bastion
-
-**Compliance Control Mapping & Audit Evidence Tracker**
-
-A control mapping and audit-readiness project designed to connect framework requirements with technical evidence, control owners, and remediation status.
-
-- Mapped 120+ NIST 800-53 and CIS Controls to policy artifacts, technical evidence, and control-owner responsibilities.
-- Identified 28 evidence gaps across 5 control families and built structured remediation tracking workflows.
-- Created Excel/Python dashboards for evidence completeness, residual risk visibility, control effectiveness, and audit readiness.
-- Prioritized remediation using risk impact, control criticality, likelihood, and evidence quality.
-
-**Focus:** Control Testing · NIST 800-53 · CIS Controls · Audit Readiness
-
-**Links:** [Live App](https://bastion.streamlit.app/) · [GitHub](https://github.com/mehulnikumbh19/bastion-grc)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚠️ Patchwork
-
-**Vulnerability Risk Register & Remediation Prioritization Dashboard**
-
-A vulnerability governance project focused on risk-based remediation, asset context, SLA tracking, and compliance-style reporting.
-
-- Correlated 2,000+ CVE records against a 150-asset inventory to build a centralized vulnerability risk register.
-- Created risk-ranked remediation queues using CVSS severity, exploit availability, business impact, and asset criticality.
-- Built dashboards for overdue remediation, high-risk assets, exception tracking, and leadership-level risk visibility.
-- Mapped findings to NIST/CIS-aligned vulnerability management expectations and produced remediation guidance for audit support.
-
-**Focus:** Vulnerability Management · Risk Register · CVSS · Remediation SLA
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Watchtower
-
-**SIEM Alert Evidence Review & Risk-Based Triage Workflow**
-
-A security evidence and triage project focused on SIEM alert review, risk prioritization, and incident-ready documentation.
-
-- Processed 500+ simulated SIEM alerts and enriched indicators with external threat-intelligence context.
-- Built a risk-based triage workflow using asset criticality, IOC confidence, alert severity, and business impact.
-- Produced incident-ready documentation including evidence summaries, escalation status, recommended actions, and remediation notes.
-- Mapped findings to MITRE ATT&CK techniques to improve incident traceability and governance visibility.
-
-**Focus:** SIEM · Incident Documentation · Evidence Review · Risk-Based Triage
-
-</td>
-</tr>
-</table>
+| Degree | Institution |
+| --- | --- |
+| **M.S. Information Systems, Cybersecurity Concentration** | California State University, Long Beach |
 
 ---
 
-## 🌐 Portfolio
+## 📊 GitHub Stats
 
-My live cybersecurity GRC portfolio is available here: **[mehulnikumbh19.github.io/portfolio](https://mehulnikumbh19.github.io/portfolio/)**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehulnikumbh19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulnikumbh19&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 📚 Current Learning Priorities
-
-- NIST CSF and NIST 800-53 control interpretation
-- ISO 27001 control objectives and audit evidence expectations
-- SOX ITGC concepts: access, change management, operations, and logical security
-- PCI DSS security control requirements
-- IAM governance and access certification workflows
-- Excel-based GRC reporting, risk registers, and compliance dashboards
-- ServiceNow, Jira, SailPoint, and OneTrust workflow fundamentals
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mehulnikumbh19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🎯 Career Interests
+## 📫 Let's Connect
 
-I am actively interested in opportunities across:
-
-- Governance, Risk & Compliance
-- IT Risk Management
-- Security Compliance
-- IT Audit
-- Security Control Assessment
-- IAM Governance
-- Vulnerability Risk Management
-- Cybersecurity Governance Operations
+<p align="center">
+  <a href="mailto:mnikumbh19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehulnikumbh19">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehul%20Nikumbh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mehulnikumbh19">
+    <img src="https://img.shields.io/badge/GitHub-mehulnikumbh19-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mehulnikumbh19.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>"Turning technical security evidence into audit-ready risk decisions."</i>
+</p>
 
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehul%20Nikumbh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehulnikumbh19)
-[![GitHub](https://img.shields.io/badge/GitHub-mehulnikumbh19-181717?style=for-the-badge&logo=github)](https://github.com/mehulnikumbh19)
-[![Email](https://img.shields.io/badge/Email-mnikumbh19%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mnikumbh19@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehulnikumbh19&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
