@@ -135,6 +135,11 @@ Governance + Risk + Compliance
 
 ## 🚀 Featured GRC & Security Projects
 
+| Project | Live App | Source |
+| --- | --- | --- |
+| **MANDATE** | [Open live app](https://mandatemehul.vercel.app/) | [GitHub repository](https://github.com/mehulnikumbh19/MANDATE) |
+| **Bastion** | [Open live app](https://bastion.streamlit.app/) | [GitHub repository](https://github.com/mehulnikumbh19/bastion-grc) |
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -167,6 +172,8 @@ A control mapping and audit-readiness project designed to connect framework requ
 - Prioritized remediation using risk impact, control criticality, likelihood, and evidence quality.
 
 **Focus:** Control Testing · NIST 800-53 · CIS Controls · Audit Readiness
+
+**Links:** [Live App](https://bastion.streamlit.app/) · [GitHub](https://github.com/mehulnikumbh19/bastion-grc)
 
 </td>
 </tr>
@@ -205,6 +212,12 @@ A security evidence and triage project focused on SIEM alert review, risk priori
 </td>
 </tr>
 </table>
+
+---
+
+## 🌐 Portfolio
+
+My live cybersecurity GRC portfolio is available here: **[mehulnikumbh19.github.io/portfolio](https://mehulnikumbh19.github.io/portfolio/)**
 
 ---
 
