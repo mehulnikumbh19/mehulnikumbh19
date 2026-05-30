@@ -29,7 +29,7 @@ Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cyber
 name: Mehul Nikumbh
 role: Cybersecurity GRC / IT Risk Analyst
 focus: [Control Testing, Audit Evidence, IAM Governance, Vulnerability Risk]
-currently_building: [MANDATE, Bastion, Cybersecurity GRC Portfolio]
+currently_building: [MANDATE, SAFEGUARD, Bastion, Cybersecurity GRC Portfolio]
 education: M.S. Information Systems - Cybersecurity @ CSULB
 open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ```
@@ -87,6 +87,19 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![GRC](https://img.shields.io/badge/-Third--Party%20Risk-7C3AED?style=flat-square)
 
 `Vendor Risk` · `Evidence Review` · `Residual Risk` · `Exception Tracking` · `Executive Reports`
+
+---
+
+### 🛡️ SAFEGUARD — Access, Logging & Cloud Control Review Workbook
+> _A Flask and SQLite security control review workbench for access, SSO/MFA, user permissions, encryption, logging, cloud configuration, evidence requests, risk scoring, remediation tracking, policy mapping, and management-ready reports._
+
+[![GitHub](https://img.shields.io/badge/GitHub-SAFEGUARD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/SAFEGUARD)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel%20Exports-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+`Control Review` · `Audit Evidence` · `Risk Register` · `Policy Mapping` · `Remediation Tracking` · `Executive Reports`
 
 ---
 
