@@ -142,25 +142,34 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 
 ---
 
-## Experience Highlights
+## Experience
 
-### Cybersecurity Intern - The Cheesecake Factory
-- Supported endpoint and SIEM alert review workflows for security operations and audit readiness.
-- Validated CrowdStrike Falcon detections and documented findings for remediation and evidence tracking.
-- Assisted with third-party application usage review to identify governance and data leakage risks.
+### Cybersecurity Intern | Jun 2025 - Aug 2025
+**The Cheesecake Factory**
+- Assessed 6+ third-party cloud applications for data leakage and access risk by reviewing OAuth scopes, SSO/MFA status, user permissions, data access patterns, and alignment with internal data handling requirements.
+- Compared firewall and SIEM configuration evidence against CIS Benchmark and internal policy baselines; documented 12+ control gaps with severity, evidence source, owner, recommended action, and remediation status.
+- Translated phishing simulation and user-reported incident trends across 30+ cases into awareness metrics, policy follow-up items, and concise security reporting for IT and compliance stakeholders.
 
-### Information Security Analyst - Vivekanand Education Society's Institute Of Technology
-- Performed security risk assessments and control gap reviews mapped to NIST CSF, ISO 27001, CIS Controls, and internal policies.
-- Organized audit evidence including screenshots, tickets, access reports, vulnerability reports, configuration exports, and policy documents.
-- Maintained risk registers, remediation trackers, control-owner status dashboards, and access review testing workpapers.
+### Security Analyst | May 2023 - Aug 2024
+**VESIT (University of Mumbai)**
+- Maintained incident, access, and remediation evidence for 200+ endpoints using Wazuh SIEM, Windows Event Logs, screenshots, and ticket notes to support quarterly compliance reviews.
+- Validated OpenVAS and Nmap findings against CIS Benchmark expectations, assigned CVSS-based severity, separated exceptions, and maintained remediation tracking reports for IT governance stakeholders.
+- Prepared owner-view status summaries across open findings, recurring control issues, log evidence, and closure items to support risk visibility and follow-up with technical teams.
+
+### Security Operations Intern | Dec 2022 - May 2023
+**Telenetworks Technologies**
+- Reviewed baseline configurations for 25+ infrastructure systems against security policy expectations; documented 8 deviations with evidence source, risk impact, owner, and remediation timeline.
+- Organized control evidence packages for 4 compliance assessments, including request lists, configuration exports, log samples, screenshots, review notes, and closure documentation.
 
 ---
 
 ## Education
 
-| Degree | Institution |
-| --- | --- |
-| **M.S. Information Systems, Cybersecurity Concentration** | California State University, Long Beach |
+### California State University, Long Beach | Aug 2024 - May 2026
+Master of Science, Information Systems (Cybersecurity) | GPA: 3.44 | Long Beach, CA
+
+### University of Mumbai | Feb 2020 - May 2024
+Bachelor of Engineering, Electronics (Honors: Cybersecurity) | GPA: 3.8 | Mumbai, India
 
 ---
 
