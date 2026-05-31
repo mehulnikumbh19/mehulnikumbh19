@@ -1,4 +1,4 @@
-﻿<h1 align="center">
+<h1 align="center">
   Hey there, I'm Mehul
 </h1>
 
@@ -21,33 +21,33 @@
 
 ---
 
-## ðŸ§  About Me
+## About Me
 
-Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cybersecurity Concentration from **California State University, Long Beach**, and hands-on experience across **security operations**, **control assessments**, **audit evidence tracking**, **IAM governance**, **vulnerability risk prioritization**, and **security compliance documentation**. I like working on problems where technical security evidence becomes business-ready risk decisions â€” think access reviews, control mapping, third-party assessments, SIEM evidence, and remediation reporting.
+Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cybersecurity Concentration from **California State University, Long Beach**, and hands-on experience across **security operations**, **control assessments**, **audit evidence tracking**, **IAM governance**, **vulnerability risk prioritization**, and **security compliance documentation**. I like working on problems where technical security evidence becomes business-ready risk decisions - think access reviews, control mapping, third-party assessments, SIEM evidence, and remediation reporting.
 
 ```yaml
 name: Mehul Nikumbh
 role: Cybersecurity GRC / IT Risk Analyst
 focus: [Control Testing, Audit Evidence, IAM Governance, Vulnerability Risk]
-currently_building: [MANDATE, SAFEGUARD, Bastion, Cybersecurity GRC Portfolio]
+currently_building: [MANDATE, SAFEGUARD, BASTION, Cybersecurity GRC Portfolio]
 education: M.S. Information Systems - Cybersecurity @ CSULB
 open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ```
 
 ---
 
-## ðŸ› ï¸ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### ðŸ›ï¸ Governance, Risk & Compliance
+### Governance, Risk & Compliance
 ![GRC](https://img.shields.io/badge/GRC-Governance%20Risk%20%26%20Compliance-2563EB?style=for-the-badge)
 ![IT Risk](https://img.shields.io/badge/IT%20Risk-Risk%20Assessment-7C2D12?style=for-the-badge)
 ![Security Compliance](https://img.shields.io/badge/Security%20Compliance-Audit%20Readiness-15803D?style=for-the-badge)
 ![Control Testing](https://img.shields.io/badge/Control%20Testing-Remediation%20Tracking-C2410C?style=for-the-badge)
 ![Risk Register](https://img.shields.io/badge/Risk%20Register-Residual%20Risk-9333EA?style=for-the-badge)
 
-### ðŸ“š Frameworks
+### Frameworks
 ![NIST CSF](https://img.shields.io/badge/NIST-CSF-1D4ED8?style=for-the-badge)
 ![NIST 800-53](https://img.shields.io/badge/NIST-800--53-1E40AF?style=for-the-badge)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001-166534?style=for-the-badge)
@@ -56,7 +56,7 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![PCI DSS](https://img.shields.io/badge/PCI-DSS-B45309?style=for-the-badge)
 ![CIS Controls](https://img.shields.io/badge/CIS-Controls-0F766E?style=for-the-badge)
 
-### ðŸ›¡ï¸ Security Tools
+### Security Tools
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Falcon-B91C1C?style=for-the-badge)
@@ -64,7 +64,7 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-15803D?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Security-1D4ED8?style=for-the-badge)
 
-### ðŸ“Š Data & Reporting
+### Data & Reporting
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Review-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Risk%20Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -75,10 +75,10 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
-### ðŸ§¾ MANDATE â€” Third-Party Security & Data Handling Review Tracker
-> _A TPRM and GRC workflow for vendor inventories, questionnaire review, evidence gaps, risk scoring, follow-ups, and executive reporting._
+### MANDATE - Third-Party Security & Data Handling Review Tracker
+> A TPRM and GRC workflow for vendor inventories, questionnaire review, evidence gaps, risk scoring, follow-ups, and executive reporting.
 
 [![Live App](https://img.shields.io/badge/Live%20App-mandatemehul.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://mandatemehul.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-MANDATE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/MANDATE)
@@ -86,26 +86,26 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![GRC](https://img.shields.io/badge/-Third--Party%20Risk-7C3AED?style=flat-square)
 
-`Vendor Risk` Â· `Evidence Review` Â· `Residual Risk` Â· `Exception Tracking` Â· `Executive Reports`
+`Vendor Risk` | `Evidence Review` | `Residual Risk` | `Exception Tracking` | `Executive Reports`
 
 ---
 
-### ðŸ›¡ï¸ SAFEGUARD â€” Access, Logging & Cloud Control Review Workbook
-> _A Flask and SQLite security control review workbench for access, SSO/MFA, user permissions, encryption, logging, cloud configuration, evidence requests, risk scoring, remediation tracking, policy mapping, and management-ready reports._
+### SAFEGUARD - Access, Logging & Cloud Control Review Workbook
+> A Flask and SQLite security control review workbench for access, SSO/MFA, user permissions, encryption, logging, cloud configuration, evidence requests, risk scoring, remediation tracking, policy mapping, and management-ready reports.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SAFEGUARD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/SAFEGUARD)
 [![Live App](https://img.shields.io/badge/Live%20App-safeguard--d5ik.onrender.com-2563EB?style=flat-square&logo=render&logoColor=white)](https://safeguard-d5ik.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-SAFEGUARD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/SAFEGUARD)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel%20Exports-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-`Control Review` Â· `Audit Evidence` Â· `Risk Register` Â· `Policy Mapping` Â· `Remediation Tracking` Â· `Executive Reports`
+`Control Review` | `Audit Evidence` | `Risk Register` | `Policy Mapping` | `Remediation Tracking` | `Executive Reports`
 
 ---
 
-### ðŸ›¡ï¸ Bastion â€” Security Control Assessment & Evidence Tracker
-> _A FastAPI and Next.js control assessment tool that maps frameworks to evidence, findings, remediations, exceptions, and management-ready reports._
+### BASTION - Security Control Assessment & Evidence Tracker
+> A FastAPI and Next.js control assessment tool that maps frameworks to evidence, findings, remediations, exceptions, and management-ready reports.
 
 [![Live App](https://img.shields.io/badge/Live%20App-bastion--grc.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://bastion-grc.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-bastion--grc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/bastion-grc)
@@ -113,24 +113,24 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-`Control Mapping` Â· `NIST 800-53` Â· `CIS Controls` Â· `Evidence Gaps` Â· `Audit Readiness`
+`Control Mapping` | `NIST 800-53` | `CIS Controls` | `Evidence Gaps` | `Audit Readiness`
 
 ---
 
-### ðŸ” AccessGuard â€” User Access Review & Provisioning Control Testing
-> _A simulated access governance project for joiner/mover/leaver testing, privileged access review, SoD checks, and audit evidence workpapers._
+### AccessGuard - User Access Review & Provisioning Control Testing
+> A simulated access governance project for joiner/mover/leaver testing, privileged access review, SoD checks, and audit evidence workpapers.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AccessGuard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/AccessGuard)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![IAM](https://img.shields.io/badge/-IAM%20Governance-4C1D95?style=flat-square)
 
-`Access Reviews` Â· `SOX ITGC` Â· `Least Privilege` Â· `Provisioning` Â· `Remediation Tracking`
+`Access Reviews` | `SOX ITGC` | `Least Privilege` | `Provisioning` | `Remediation Tracking`
 
 ---
 
-### ðŸŒ Cybersecurity GRC Portfolio
-> _A live portfolio site presenting GRC projects, case studies, artifacts, skills, and risk-focused security workflows._
+### Cybersecurity GRC Portfolio
+> A live portfolio site presenting GRC projects, case studies, artifacts, skills, and risk-focused security workflows.
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-GitHub%20Pages-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://mehulnikumbh19.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/portfolio)
@@ -138,25 +138,25 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-`GRC Portfolio` Â· `Case Studies` Â· `Risk Reporting` Â· `Audit Artifacts`
+`GRC Portfolio` | `Case Studies` | `Risk Reporting` | `Audit Artifacts`
 
 ---
 
-## ðŸ’¼ Experience Highlights
+## Experience Highlights
 
-### Cybersecurity Intern â€” The Cheesecake Factory
+### Cybersecurity Intern - The Cheesecake Factory
 - Supported endpoint and SIEM alert review workflows for security operations and audit readiness.
 - Validated CrowdStrike Falcon detections and documented findings for remediation and evidence tracking.
 - Assisted with third-party application usage review to identify governance and data leakage risks.
 
-### Information Security Analyst â€” Vivekanand Education Society's Institute Of Technology
+### Information Security Analyst - Vivekanand Education Society's Institute Of Technology
 - Performed security risk assessments and control gap reviews mapped to NIST CSF, ISO 27001, CIS Controls, and internal policies.
 - Organized audit evidence including screenshots, tickets, access reports, vulnerability reports, configuration exports, and policy documents.
 - Maintained risk registers, remediation trackers, control-owner status dashboards, and access review testing workpapers.
 
 ---
 
-## ðŸŽ“ Education
+## Education
 
 | Degree | Institution |
 | --- | --- |
@@ -164,7 +164,7 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehulnikumbh19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -177,7 +177,7 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 
 ---
 
-## ðŸ“« Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:mnikumbh19@gmail.com">
