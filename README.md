@@ -29,7 +29,7 @@ Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cyber
 name: Mehul Nikumbh
 role: Cybersecurity GRC / IT Risk Analyst
 focus: [Control Testing, Audit Evidence, IAM Governance, Vulnerability Risk]
-currently_building: [MANDATE, SAFEGUARD, BASTION, Cybersecurity GRC Portfolio]
+currently_building: [Hxrizxn AI, MANDATE, SAFEGUARD, BASTION, Cybersecurity GRC Portfolio]
 education: M.S. Information Systems - Cybersecurity @ CSULB
 open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ```
@@ -76,6 +76,21 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ---
 
 ## Featured Projects
+
+### 🚨 Hxrizxn AI - Multi-Agent Decision Simulator (Microsoft Agents League Hackathon)
+> **What if 11 AI agents argued about your life's biggest decision before you made it?** Hxrizxn AI runs your dilemma through HORIZON-X, an 11-agent pipeline that maps scenarios, ripple effects, black swans, reversibility, regret, and safer experiments, then delivers a structured decision memo with grounded evidence. Built on Azure OpenAI, Azure AI Search, and Microsoft Fluent 2.
+
+[![Live App](https://img.shields.io/badge/Live%20App-Azure%20Container%20Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://hxrizxn-web.agreeableforest-fd08d701.eastus2.azurecontainerapps.io)
+[![GitHub](https://img.shields.io/badge/GitHub-hxrizxn--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/hxrizxn-ai)
+![Next.js](https://img.shields.io/badge/-Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+
+`11-Agent Pipeline` | `Scenario Lattice` | `Ripple Effects` | `Black Swan Analysis` | `Regret Scoring` | `Experiment Design` | `Decision Memo`
+
+---
 
 ### MANDATE - Third-Party Security & Data Handling Review Tracker
 > A TPRM and GRC workflow for vendor inventories, questionnaire review, evidence gaps, risk scoring, follow-ups, and executive reporting.
