@@ -29,7 +29,7 @@ Cybersecurity GRC and IT Risk analyst with an M.S. in Information Systems, Cyber
 name: Mehul Nikumbh
 role: Cybersecurity GRC / IT Risk Analyst
 focus: [Control Testing, Audit Evidence, IAM Governance, Vulnerability Risk]
-currently_building: [Hxrizxn AI, MANDATE, SAFEGUARD, BASTION, Cybersecurity GRC Portfolio]
+currently_building: [Hxrizxn AI, NIMBUS, MANDATE, SAFEGUARD, BASTION, Cybersecurity GRC Portfolio]
 education: M.S. Information Systems - Cybersecurity @ CSULB
 open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ```
@@ -129,6 +129,19 @@ open_to: [GRC Analyst, IT Risk Analyst, Security Compliance Analyst, IT Auditor]
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 `Control Mapping` | `NIST 800-53` | `CIS Controls` | `Evidence Gaps` | `Audit Readiness`
+
+---
+
+### NIMBUS - AWS Log Ingestion & IAM Anomaly Detection Framework
+> A Python-based AWS security analytics project that parses CloudTrail logs, detects IAM and root-account risk signals, maps findings to CIS AWS Benchmark-related controls, and applies Isolation Forest anomaly detection to IAM activity.
+
+[![GitHub](https://img.shields.io/badge/GitHub-nimbus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehulnikumbh19/nimbus)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS%20CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+`CloudTrail` | `IAM Monitoring` | `CIS AWS Benchmark` | `Rule-Based Detection` | `Isolation Forest` | `Anomaly Review`
 
 ---
 
